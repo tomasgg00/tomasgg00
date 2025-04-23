@@ -8,10 +8,10 @@
 ---
 
 ### 🛠️ About Me
-- 🔭 I’m currently working on **my Master Thesis in Natural Language Processing and Machine Learning**.
-- 🌱 I’m always learning and experimenting with new technologies, especially in **AI and Big Data**.
-- 👯 Open to collaborating on innovative projects and contributing to open-source communities.
-- 🌍 Based in Copenhagen, Denmark, with a passion for solving global challenges through technology.
+- I’m currently working on **my Master Thesis in Natural Language Processing and Machine Learning**.
+- I’m always learning and experimenting with new technologies, especially in **AI and Big Data**.
+- Open to collaborating on innovative projects and contributing to open-source communities.
+- Based in Copenhagen, Denmark, with a passion for solving global challenges through technology.
 
 ---
 
