@@ -20,6 +20,7 @@ I'm interested in the intersection of machine learning and real-world problems, 
 
 ### Projects
 
+- **[Misinformation Detector](https://github.com/tomasgg00/misinformation-detector)** — Hybrid model for detecting and classifying misinformation related to migrants and refugees, developed in collaboration with UNHCR.
 - **[Genre Classification with BERT, RNN & Naive Bayes](https://github.com/tomasgg00/BERT-RNN-NaiveBayes-GenreClassification)** — Comparing NLP approaches for music genre prediction.
 - **[Melanoma Detection: SVM vs CNN](https://github.com/tomasgg00/In-Depth-Melanoma-Detection-Analysis-Comparing-SVM-and-CNN-Performance)** — Classical vs deep learning models for medical image classification.
 - **[Forecasting Portugal's GDP](https://github.com/tomasgg00/ForecastPortugalGDP-ARIMA-vs-ETS)** — ARIMA vs ETS for macroeconomic trend prediction.
