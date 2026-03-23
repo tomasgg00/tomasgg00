@@ -2,6 +2,11 @@
 <p align="center">
   AI & Data Consultant at EY · MSc in Business Administration and Data Science, Copenhagen Business School · NLP & Machine Learning.
 </p>
+<p align="center">
+  <a href="mailto:tomasggoncalves0@hotmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/tom%C3%A1s-gon%C3%A7alves-411b791aa/">LinkedIn</a> ·
+  <a href="https://tomasggoncalves0.wixstudio.com/resume">Website</a>
+</p>
 
 ---
 
