@@ -14,8 +14,6 @@
 
 I'm an AI & Data Consultant at EY Copenhagen, working on data-driven remediation and proof-of-concept AI projects. My background spans consulting at KPMG, data analysis at MAN Energy Solutions, and academic research in NLP — including a thesis developed in collaboration with UNHCR on misinformation detection around migrants and refugees.
 
-I'm interested in the intersection of machine learning and real-world problems, and I tend to work best when technical depth meets business context.
-
 ---
 
 ### Projects
